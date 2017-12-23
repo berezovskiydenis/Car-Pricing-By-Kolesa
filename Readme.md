@@ -18,3 +18,8 @@ print(cc.car_price('isuzu', 'trooper', 1998))
 
 After running script for the first time DB will be created. Further DB will be
 used as a catalog data.
+
+
+Script `car_average_price_dom.py` is presented just as example of using 
+BeautifulSoup for web scrapping. It builds cars catalog but takes too long time
+and often crashes because of time out error.
